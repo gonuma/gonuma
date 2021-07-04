@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Greg (@gonuma)
 - 👀 I’m interested in coding and videogames.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript and C#!
 - 📫 You can reach me here or on Slack.
 
 <!---
